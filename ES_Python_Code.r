@@ -52,9 +52,6 @@ var_sales = calculate_variance(df_train['Global_Sales'])
 std_sales = calculate_std(df_train['Global_Sales'])
 n = len(df_train)
 
-# Verify calculations
-verify_calculations(df_train['Global_Sales'])
-
 # 2. Create visualizations
 plt.figure(figsize=(15, 5))
 
