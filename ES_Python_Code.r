@@ -1,7 +1,7 @@
 # Group Members
 # Areej Arif 2024113
 # Malik Abdullah 2024275
-# Maheen kazmi 2024627
+# Syeda Maheen kazmi 2024627
 
 import pandas as pd
 import numpy as np
